@@ -1,0 +1,28 @@
+{
+  "name": "goit-js-hw-09-gallery-parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davidass/goit-js-hw-09-gallery-parcel.git"
+  },
+  "keywords": [],
+  "author": "David Volosyan <david_volosyan@mail.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Davidass/goit-js-hw-09-gallery-parcel/issues"
+  },
+  "homepage": "https://github.com/Davidass/goit-js-hw-09-gallery-parcel#readme",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
